@@ -1,4 +1,4 @@
-apikey = "b14ecf44-4b8f-4c88-9353-8afef5cc9752"
+apikey = "b14ecf44-4b8f-4c88-9353-8afef5cc975"
 secretkey = "71796989274EEC26F27A2E6E9B02CC69"
 IP = ""
 Etichetta = "My bot"
